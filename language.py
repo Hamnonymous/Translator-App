@@ -72,4 +72,3 @@ LANGUAGES = {
 
 keys = [key for key in LANGUAGES.keys()]
 values = [key for key in LANGUAGES.values()]
-# print(values)
